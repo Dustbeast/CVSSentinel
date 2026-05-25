@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.pt
+*.pth
+*.ckpt
+# Large datasets
+JSON-FEED/
+*.json
+*.csv
+experimentation/
